@@ -1,15 +1,15 @@
-# Level 1 → 2
+# Level 04 → 05
 
 ## Objective
-Find a password hidden in a file named -
+Find the password in a human-readable file
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] file ./*  
+  Identify file types
+- [ ] cat ./-file07  
+  Read human-readable file
 
 ---
 

@@ -1,5 +1,22 @@
-# Bandit Level 15 → Level 16 Solution
-## Command
-`command_here`
-## Password
-`password_here`
+# Level 15 → 16
+
+## Objective
+Submit password via SSL connection
+
+---
+
+### Commands Used
+- [ ] openssl s_client -connect localhost:30001  
+  SSL connection
+
+---
+
+### Notes
+- What did you learn?  
+  [Key takeaways]
+  
+- Any new commands?  
+  [New commands discovered]
+  
+- Anything tricky?  
+  [Challenges encountered]

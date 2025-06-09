@@ -1,4 +1,4 @@
-# Level 1 → 2
+# Level 01 → 02
 
 ## Objective
 Find a password hidden in a file named -
@@ -6,10 +6,8 @@ Find a password hidden in a file named -
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] cat ./-  
+  Read a file named -
 
 ---
 

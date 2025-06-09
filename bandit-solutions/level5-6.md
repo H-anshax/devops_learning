@@ -1,5 +1,24 @@
-# Bandit Level 5 → Level 6 Solution
-## Command
-`command_here`
-## Password
-`password_here`
+# Level 5 → 6
+
+## Objective
+
+
+---
+
+### Commands Used
+- [ ] [First command]  
+  [Explanation]
+- [ ] [Second command]  
+  [Explanation]
+
+---
+
+### Notes
+- What did you learn?  
+  [Key takeaways]
+  
+- Any new commands?  
+  [New commands discovered]
+  
+- Anything tricky?  
+  [Challenges encountered]

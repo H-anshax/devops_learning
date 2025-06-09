@@ -1,15 +1,15 @@
-# Level 1 → 2
+# Level 03 → 04
 
 ## Objective
-Find a password hidden in a file named -
+Find a hidden file in the directory
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] ls -a  
+  List all files including hidden
+- [ ] cat .hidden  
+  Read hidden file
 
 ---
 

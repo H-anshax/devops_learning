@@ -1,15 +1,15 @@
-# Level 1 → 2
+# Level 00 → 01
 
 ## Objective
-Find a password hidden in a file named -
+Find the password stored in a file called readme
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] ls  
+  List directory contents
+- [ ] cat readme  
+  Display the password file
 
 ---
 

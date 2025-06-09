@@ -1,15 +1,13 @@
-# Level 1 → 2
+# Level 02 → 03
 
 ## Objective
-Find a password hidden in a file named -
+Find a password stored in a file with spaces in its name
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] cat "spaces in this filename"  
+  Read a file with spaces
 
 ---
 

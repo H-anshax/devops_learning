@@ -1,15 +1,15 @@
-# Level 1 → 2
+# Level 08 → 09
 
 ## Objective
-Find a password hidden in a file named -
+Find the password stored in the only unique line
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] sort data.txt   
+   uniq -u
+- [ ] Find unique line  
+  
 
 ---
 

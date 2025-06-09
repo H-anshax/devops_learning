@@ -1,15 +1,15 @@
-# Level 1 → 2
+# Level 09 → 10
 
 ## Objective
-Find a password hidden in a file named -
+Find the password in human-readable string
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] strings data.txt   
+   grep '^='
+- [ ] Extract readable strings  
+  
 
 ---
 

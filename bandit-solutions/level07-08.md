@@ -1,15 +1,13 @@
-# Level 1 → 2
+# Level 07 → 08
 
 ## Objective
-Find a password hidden in a file named -
+Find the password stored in data.txt next to 'millionth'
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] grep 'millionth' data.txt  
+  Search for password marker
 
 ---
 

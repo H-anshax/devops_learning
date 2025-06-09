@@ -1,15 +1,15 @@
-# Level 1 → 2
+# Level 05 → 06
 
 ## Objective
-Find a password hidden in a file named -
+Find the password in a file with specific attributes
 
 ---
 
 ### Commands Used
-- [ ] [First command]  
-  [Explanation]
-- [ ] [Second command]  
-  [Explanation]
+- [ ] find . -size 1033c  
+  Find 1033 byte file
+- [ ] cat ./maybehere07/.file2  
+  Read the target file
 
 ---
 
